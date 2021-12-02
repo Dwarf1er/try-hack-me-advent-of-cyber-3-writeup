@@ -18,4 +18,4 @@ This project is licensed under [The MIT License (MIT)](LICENSE)
 ## Acknowledgments
 
   - **Billie Thompson**, this README was based on the template provided [here](https://github.com/PurpleBooth/a-good-readme-template)
-  - **TryHackME**, parts of the individual tasks' READMEs are taken from the TryHackMe description [here](https://tryhackme.com/room/adventofcyber3)
+  - **TryHackMe**, parts of the individual tasks' READMEs are taken from the TryHackMe description [here](https://tryhackme.com/room/adventofcyber3)
