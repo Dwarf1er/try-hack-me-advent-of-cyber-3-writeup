@@ -2,7 +2,7 @@
 
 Writeup for Try Hack Me's Advent of Cyber 3 (2021) event. This repository contains directories for each indiviual day of the advent of cyber.
 
-[adventofcyberbanner](https://user-images.githubusercontent.com/43828340/144511433-f9ab9717-5533-4de6-988b-11ec9378f803.png)
+<img src ="https://user-images.githubusercontent.com/43828340/144511433-f9ab9717-5533-4de6-988b-11ec9378f803.png" alt="Try Hack Me Advent of Cyber 3 banner">
 
 ## How To Use This Project
 
