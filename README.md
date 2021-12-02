@@ -6,7 +6,7 @@ Writeup for Try Hack Me's Advent of Cyber 3 (2021) event. This repository contai
 
 ## How To Use This Project
 
-A complete walkthrough is included for each of the tasks in the form of a README, relevant code will also be included if needed.
+A complete walkthrough is included for each of the days of the advent in the form of a README, relevant code will also be included if needed.
 
 ## Authors
 
